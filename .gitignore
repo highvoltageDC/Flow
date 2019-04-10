@@ -14,7 +14,7 @@ px4flow*.px4
 px4flow*.bin
 *.sublime-workspace
 #build*/
-.vscode/*
+.vscode/
 Build/px4flow-v1_default.build/baremetal-export
 Build/px4flow-v1_default.build/home
 Build/px4flow-v2_default.build/baremetal-export
