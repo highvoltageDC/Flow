@@ -20,7 +20,7 @@ CMakeFiles/
 *.cmake
 libperiph.a
 px4flow
-Build/
+#Build/
 Images/*.bin
 Images/*.px4
 .swp
