@@ -13,8 +13,12 @@ px4flow_prototype.px4
 px4flow*.px4
 px4flow*.bin
 *.sublime-workspace
-build*/
-
+#build*/
+Build/px4flow-v1_default.build/baremetal-export
+Build/px4flow-v1_default.build/home
+Build/px4flow-v2_default.build/baremetal-export
+Build/px4flow-v2_default.build/builtin_commands
+Build/px4flow-v2_default.build/home
 CMakeCache.txt
 CMakeFiles/
 *.cmake
@@ -26,8 +30,8 @@ Images/*.px4
 .swp
 .~lock.*
 Archives/*
-Build/*
-build/*
+#Build/*
+#build/*
 .tags
 tags
 .tags_sorted_by_file
